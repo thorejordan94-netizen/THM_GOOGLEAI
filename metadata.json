@@ -1,0 +1,5 @@
+{
+  "name": "THM Career Mapper",
+  "description": "Analysiert TryHackMe-Räume anhand spezifischer IT-Berufsprofile mittels KI, um Relevanz und Lernpfade zu bestimmen.",
+  "requestFramePermissions": []
+}
